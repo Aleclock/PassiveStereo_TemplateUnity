@@ -965,6 +965,7 @@ MonoBehaviour:
   camera: {fileID: 963194227}
   speedLocomotion: 10
   speedRotation: 0.2
+  speedVertical: 0.2
 --- !u!143 &1075189684
 CharacterController:
   m_ObjectHideFlags: 0
