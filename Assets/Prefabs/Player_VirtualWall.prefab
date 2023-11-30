@@ -65,8 +65,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 3856557903351080198}
-  speedLocomotion: 10
-  speedRotation: 0.2
+  speedLocomotion: 5
+  speedRotation: 0.5
   speedVertical: 0.2
 --- !u!1 &3856557903351080197
 GameObject:
